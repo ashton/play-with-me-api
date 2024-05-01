@@ -26,5 +26,3 @@ erl_crash.dump
 play_with_me-*.tar
 
 /.elixir_ls/
-
-/rel/
